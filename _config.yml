@@ -1,10 +1,10 @@
 title: Nasta Khralovich
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-description: 
+description: >
  Data scientist with 2+ years of expirience in data (analytics, data engineering and supevised machine learning models). 
- <br>
+ <br><br>
   <a href="https://www.linkedin.com/in/nastakhralovich/">My LinkedIn Profile</a> 
-  <a href="https://github.com/khralovich"My Github</a> 
+  <a href="https://github.com/khralovich"My Github Page</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
