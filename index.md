@@ -4,20 +4,11 @@
 
 ### Apartments costs regression model
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on GitHub]([/sample_page](https://github.com/khralovich/apartment_costs_regression))
+<br></br>
+<img src="https://github.com/khralovich/khralovich.github.io/blob/main/images/reg_1.png"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
+This model considers several variables such as size and location to assess the expense of a specific living unit. For learning purposes, I did not use Scikit-learn or any other library initially. Once my model was ready, I recreated it using Scikit-learn and then validated both versions using the RMSE metric.
 
 
 
